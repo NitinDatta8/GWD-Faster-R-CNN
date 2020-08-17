@@ -62,6 +62,9 @@ And I remove the high-leval api ignite which makes the project not easy to chang
 └── tests					- this foler contains unit test of my project.
      ├── test_data_sampler.py
 ```
+# How to run the project
+Open the `Faster R-CNN Resnest-101.ipynb` notebook in Google Colab and follow the instructions
+
 # Contributing
 Any kind of enhancement or contribution is welcomed.
 
